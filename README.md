@@ -8,7 +8,7 @@ Some of the topics covered were:
 - using `Jest` as a test runner.
 - writing unit tests for JavaScript functions.
 - the _Test Driven Development (TDD)_ workflow.
-
+         
 ## Instructions
 
 **Read these requirements carefully. Understand exactly what is expected _before_ starting.**
